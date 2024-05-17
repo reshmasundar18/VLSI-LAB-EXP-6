@@ -8,6 +8,7 @@
                         Cadence Virtuoso
 
 ## PROCEDURE:
+```
 STEP:1 Cadence Virtuoso open procedure
 STEP:2 Open MobaXterm
 STEP:3 Click on Session (Top left Cornet)
@@ -32,6 +33,7 @@ STEP:16 Choose the folder where you need to work
 -> ok gpak 180 Apply
 STEP:17 File cell view choose library Type cell name
 STEP:18 Schematic window will be opened
+```
 
 ## INVERTER:
 ![Screenshot 2024-05-17 150310](https://github.com/reshmasundar18/VLSI-LAB-EXP-6/assets/166894571/ca263291-8c81-4fb9-a7f9-93e5b9667018)
