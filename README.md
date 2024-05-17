@@ -4,7 +4,7 @@
 ## AIM:
         To Simulate and Synthesis Inverter using CADENCE
 
-## APPARATUS REQUIRED:
+## SOFTWARE REQUIRED:
                         Cadence Virtuoso
 
 ## PROCEDURE:
