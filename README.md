@@ -40,11 +40,12 @@
 ```
   a)Go to 1st window i.e virtuoso(CIW)
   b)File-New-Cell view
-  c)Setup the new file form, Library: Select the one you a created. Cell : Give the experiment name Ex: Inverter View: Schematic
+  c)Setup the new file form, Library: Select the one you a created. Cell : Give the experiment name
+    Ex: Inverter View: Schematic
   d)Type: Schematic press OK
   e)Add the required components from the libraries and make the connections.
-  f)Go to instance fixed menu or use shortcut key “I” from keypad to go instances Click on browse. This opens the library browser 
-    ow select the appropriate library for components like Gpdk045,nmos, pmos
+  f)Go to instance fixed menu or use shortcut key “I” from keypad to go instances Click on browse.
+    This opens the library browser on select the appropriate library for components like Gpdk045,nmos, pmos
   g)Analog library Vdd, Gnd, Vcc, Vpulse, Vsin
   h)Make the connections by using fixed narrow wire key
   i)Click Check and Save button
