@@ -107,11 +107,12 @@
 ### Setup for D.C analysis
     1.Component to be selected in schematic is for d.c analysis
     2.Start = -1 Stop = 1 resp.
+```
 ## TRANSIENT ANALYSIS
 ![image](https://github.com/reshmasundar18/VLSI-LAB-EXP-6/assets/166894571/42131076-0412-4808-bccc-df86c4893915)
 ## DC ANALYSIS
 ![image](https://github.com/reshmasundar18/VLSI-LAB-EXP-6/assets/166894571/d2db46f9-4c66-4269-a677-c39d730436c4)
-```
+
 
 ## 2-INPUT NAND:
 ![image](https://github.com/reshmasundar18/VLSI-LAB-EXP-6/assets/166894571/c6e83e08-33de-453b-a083-79d72b3f80b9)
