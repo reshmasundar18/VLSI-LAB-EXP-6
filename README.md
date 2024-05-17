@@ -82,7 +82,8 @@
     i.Launch – ADE L(Analog Design Environment)
   b.Execute Setup—Simulation/directory/Host A new window opens
   c.Set the simulation window to spectre and click ok
-  d.Execute Setup-Model Library. Anew window opens, Check of gpdk.scs as lib and section type as stat then press OK.
+  d.Execute Setup-Model Library. Anew window opens, Check of gpdk.scs as lib and section type as
+    staRt then press OK.
   e.Execute Analysis – Choose. A window opens.
   f.Select the type and set the specifications and press OK
   g.Execute Output s—to be plotted – Select on Schematic
