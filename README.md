@@ -1,7 +1,7 @@
 ## VLSI-LAB-EXP-6
 # SIMULATE AND SYNTHESIS INVERTER USING CADEENCE
 
-## AIM:
+## AIM: 
         To Simulate and Synthesis Inverter using CADENCE
 
 ## SOFTWARE REQUIRED:
